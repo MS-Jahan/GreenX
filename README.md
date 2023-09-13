@@ -5,4 +5,4 @@ In this application a beginner has to plant a tree and upload the picture of it 
 
 Again, it was just a prototype. Both the app and robot was incomplete and as we couldn't compete in global round. the project remained __incomplete__.
 
-The code of app was fully written by [me](github.com/ms-Jahan) and the code of robot was from [Abrar Shahid](https://github.com/abrarshahid).
+The code of app was fully written by [me](https://github.com/ms-Jahan) and the code of robot was from [Abrar Shahid](https://github.com/abrarshahid).
